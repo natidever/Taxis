@@ -19,13 +19,9 @@ A blazing-fast Rust CLI tool to **automatically organize your messy folders** in
 
 ## 🚀 Installation
 
-### With `cargo`:
 
-```bash
-cargo install file_sorter_rs
-```
 
-Or clone the repo and build it manually:
+clone the repo and build it manually:
 
 ```bash
 git clone https://github.com/your-username/file_sorter_rs.git
@@ -93,18 +89,6 @@ Downloads/
 
 ---
 
-## 🧪 Example Output
-
-```bash
-> file_sorter_rs ./chaotic_folder
-[✓] Moved 5 photos
-[✓] Moved 2 videos
-[✓] Moved 3 music files
-[✓] Moved 4 documents
-[✓] Moved 1 archive
-```
-
----
 
 ## 🦀 Built With
 
