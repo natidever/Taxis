@@ -1,8 +1,7 @@
 
 
 
-# 📁 file_organizer
-
+# 📁 Taxis
 A blazing-fast Rust CLI tool to **automatically organize your messy folders** into neat subdirectories like `Videos`, `Music`, `Photos`, `Documents`, and more — all with a single command.
 
 ---
@@ -88,6 +87,15 @@ Downloads/
 | Others     | Everything else goes here                   |
 
 ---
+
+## About the Name: Taxis
+
+**Taxis** (τάξις) is a Greek word meaning **order**, **arrangement**, or **organization**. 
+
+In ancient Greek philosophy and biology, *taxis* refers to the natural ordering or classification of things — making sense out of chaos by arranging elements systematically.
+
+The name perfectly reflects the purpose of this tool: to bring structure and order to your files in an efficient and elegant way.
+
 
 
 ## 🦀 Built With
